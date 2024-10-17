@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Aneeq Tradingwala - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="profile.png" alt="Aneeq Tradingwala" class="profile-pic">
+            <h1>Aneeq Tradingwala</h1>
+            <p>Freelancer | AI Enthusiast | Thumbnails Expert</p>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello! I'm Aneeq, a passionate freelancer with a focus on creating visually appealing thumbnails and leveraging AI for creative solutions. I’m currently building a business in the AI era to help people stand out.</p>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <div class="social-links">
+                <a href="https://www.facebook.com/aneeq" target="_blank">Facebook</a>
+                <a href="https://www.linkedin.com/in/aneeq" target="_blank">LinkedIn</a>
+                <a href="mailto:aneeq@example.com">Email</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Aneeq Tradingwala. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
